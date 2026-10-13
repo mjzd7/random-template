@@ -1,0 +1,7 @@
+node_modules/
+.next/
+.omo/
+.codegraph/
+tsconfig.tsbuildinfo
+*.tsbuildinfo
+.DS_Store
